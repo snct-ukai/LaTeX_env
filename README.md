@@ -4,7 +4,7 @@ Windows用でLaTeX環境を作るためのリポジトリです。
 
 # 手順
 1. Texのインストール
-    [Tex Live](https://www.tug.org/texlive/acquire-netinstall.html)からインストーラをダウンロードしてインストールしてください。
+    [Tex Live](https://www.tug.org/texlive/acquire-netinstall.html)からインストーラをダウンロードしてインストール
 2. VSCodeの拡張機能をインストール
     - LaTeX Workshop [link](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
     - LaTeX Utilities [link](https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)

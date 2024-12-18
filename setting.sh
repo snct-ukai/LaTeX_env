@@ -1,0 +1,1 @@
+cp .latexmkrc ~/.latexmkrc
